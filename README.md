@@ -1,4 +1,4 @@
-#Travel Optimization Console App
+##Travel Optimization Console App
 Purpose
 
 This README explains how to run the Node.js console application that calculates the minimum number of cars required to transport groups of people given the car seat capacities. This document shall serve as a guide on how to do the following:

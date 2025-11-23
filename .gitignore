@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# TypeScript compiled files
+*.js
+*.js.map
+
+# Keep these files (don't ignore them)
+!package.json
+!tsconfig.json

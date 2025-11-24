@@ -16,8 +16,9 @@ Requirements
 -Visual Studio Code or any code editor (optional)
 -@types/node for Node.js type definitions: Install the Node type definitions with:npm install --save-dev @types/node
 
-Running the Project
-After cloning the repository down:
+## Running the Project
+
+After cloning the repository down into your local folder by performing a git clone on the repository link
 
 1) Compile the TypeScript files:
 npx tsc
@@ -37,7 +38,7 @@ Instruction: "Enter car seat capacities, e.g. "3, 5, 3" = 3 cars with 11 total s
 Enter a comma-separated list of numbers corresponding to the number of seats in each car.
 Example input: 1, 5, 5
 
-Output
+## Example Output
 
 The program will display:
 
